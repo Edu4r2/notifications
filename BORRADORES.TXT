@@ -1,0 +1,8 @@
+{
+  "body": "🎧PLAYLIST ACTUALIZADA!!",
+  "icon": "images/notifx/artist.png",
+  "badge": "images/notifx/artist.png",
+  "data": {
+    "url": "https://tusitio.com"
+  }
+}
