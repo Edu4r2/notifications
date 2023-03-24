@@ -1,7 +1,7 @@
 {
   "body": "Nuevas playlist añadidas!!",
   "icon": "images/notifx/playlist.png",
-  "badge": "images/notifx/playlist.png",
+  "badge": "images/notifx/logo.png",
   "data": {
     "url": "https://tusitio.com"
   }
